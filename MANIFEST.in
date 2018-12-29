@@ -1,0 +1,3 @@
+include ctc_word_beam_search_pinyin/data/nlp_ctc_word_beam_search_pinyin/*
+include README.md
+include ctc_word_beam_search_pinyin/dict.txt

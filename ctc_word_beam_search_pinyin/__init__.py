@@ -1,0 +1,1 @@
+name = 'nlp_ctc_word_beam_search_pinyin'
